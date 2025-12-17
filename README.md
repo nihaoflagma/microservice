@@ -126,7 +126,7 @@ http://localhost:8080
 ```bash
 curl -X POST http://localhost:8080/api/users \
 -H "Content-Type: application/json" \
--d '{"name":"Ivan","email":"ivan@test.ru"}'
+-d '{"name":"Pavel","email":"pavel@test.ru"}'
 ```
 
 ### Получение списка пользователей
